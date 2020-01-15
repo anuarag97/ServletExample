@@ -2,7 +2,7 @@
   
 <servlet>  
   <servlet-name>DemoServlet</servlet-name>  
-  <servlet-class>DemoServlet</servlet-class>  
+  <servlet-class>DemoServReq</servlet-class>  
 </servlet>  
   
 <servlet-mapping>  
